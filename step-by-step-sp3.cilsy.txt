@@ -1,0 +1,13 @@
+langkah-langkah:
+
+tugas:
+
+Membangun infrastruktur berbasis container
+
+1. pesbuk
+2. landing page
+3. wordpress
+
+Membuat docker untuk masing-masing kontainer
+
+GUI kubernetes
